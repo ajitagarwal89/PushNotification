@@ -17,6 +17,7 @@ namespace MRCAnroidPushNotification
 		public int RequestTimeOut { get; set; }
 		public string ServerKey { get; set; }
 		public string SenderId { get; set; }
+		public string ApplicationId { get; set; }
 		//public string ImageURL { get; set; }
 	}
 }
